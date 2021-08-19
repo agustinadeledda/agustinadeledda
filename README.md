@@ -1,6 +1,6 @@
 - Hi, I’m @agustinadeledda
 - I’m interested in Data Analytics.
-- I’m currently learning Python, Power BI, Tableau Desktop, and more.
+- I’m currently learning Python, Power BI and Tableau Desktop.
 - How to reach me:
 
   - LinkedIn: https://www.linkedin.com/in/agustinadeledda
