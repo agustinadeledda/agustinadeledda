@@ -6,4 +6,4 @@
   - LinkedIn: https://www.linkedin.com/in/agustinadeledda
   - Google: agustinadeledda@gmail.com
   - Microsoft: agustinadeledda@hotmail.com
-  - Slack Member ID: U01PUTU4JHK
+  - Slack Member ID: U02BS2QL9H9
