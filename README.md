@@ -1,5 +1,4 @@
-- How to reach me:
+Contact me:
 
-  - LinkedIn: https://www.linkedin.com/in/agustinadeledda
-  - Google: agustinadeledda@gmail.com
-  - Microsoft: agustinadeledda@hotmail.com
+  LinkedIn: https://www.linkedin.com/in/agustinadeledda
+  E-mail: agustinadeledda@hotmail.com
